@@ -1,4 +1,4 @@
-const boton = document.getElementById("llave_b.js")
+const boton = document.getElementById("btn-parte-b")
 const text = document.getElementById("status")
 boton.addEventListener("click", () => {
     text.textContent="Operacion en curso"
